@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13d4d688bd3f39a469a6be81231d1636, type: 3}
+  m_Name: DelayRandom(1-3)
+  m_EditorClassIdentifier: 
+  ObjectsList:
+    array:
+    - {fileID: 11400000, guid: e6cff5fdbe7d02442b0c8af790623229, type: 2}
+    - {fileID: 11400000, guid: d8f659d998ded0b48affc8816e0fbb7d, type: 2}
+    - {fileID: 11400000, guid: f65eae83fc83c3049bb84c5c2d13f2ca, type: 2}

@@ -1,0 +1,2 @@
+C:\Gabriel\GameProjects\Wave Player\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Gabriel\GameProjects\Wave Player\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

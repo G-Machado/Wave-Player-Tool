@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/TimeLine_Player/Demo/Scenes/Conditioned_Spawns_Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

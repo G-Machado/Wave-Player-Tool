@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13d4d688bd3f39a469a6be81231d1636, type: 3}
+  m_Name: RandomSpawnColor
+  m_EditorClassIdentifier: 
+  ObjectsList:
+    array:
+    - {fileID: 11400000, guid: 9aa6c4ce02daa904db57d73c3ebebd24, type: 2}
+    - {fileID: 11400000, guid: b2b337a144c756848b5431f88b89bc6f, type: 2}
